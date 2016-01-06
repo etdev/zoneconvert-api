@@ -1,0 +1,6 @@
+data:
+  - base_url_mq: "http://open.mapquestapi.com/geocoding/v1/address"
+  - base_url_g: "https://maps.googleapis.com/maps/api/timezone/json"
+  - api_key_mq: "Fmjtd%7Cluur2hu7n1%2C7l%3Do5-9walgu"
+  #- api_key_g: "AIzaSyBg1YjFeFt7DmoU_FtRmMpBFwKI0iHd2Kw"
+  - api_key_g: "AIzaSyAMI3CUFy07DjE6bB_xlhnA1VqBDR7ZK1A"
