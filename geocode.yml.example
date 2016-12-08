@@ -1,0 +1,5 @@
+data:
+  - base_url_mq: "http://open.mapquestapi.com/geocoding/v1/address"
+  - base_url_g: "https://maps.googleapis.com/maps/api/timezone/json"
+  - api_key_mq: <your API key>
+  - api_key_g: <your API key>
